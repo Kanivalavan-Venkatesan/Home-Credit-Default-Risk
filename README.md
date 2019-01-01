@@ -1,2 +1,1 @@
-# Home-Credit-Default-Risk
-Home Credit Default Risk
+The objective of our project is to predict how capable each applicant is of repaying a loan. The target is binary. 0: the loan was repaid(No for Default) or 1: the loan was not repaid (Yes for Default).
